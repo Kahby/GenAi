@@ -9,8 +9,8 @@ const Footer = () => {
           {/* Brand Information */}
           <div>
             <h2 className="text-2xl font-bold mb-2">
-              <span className="text-white">PROMPT</span>{' '}
-              <span className="text-yellow-400">MASTERS</span>
+              <span className="text-yellow-400">MASTER</span>
+              <span className="text-white">PROMPTER</span>{' '}
             </h2>
             <p className="text-gray-400 text-sm">From Prompts to Progress</p>
             <p className="text-gray-400 text-sm">Organized by GAI VIT Bhopal</p>

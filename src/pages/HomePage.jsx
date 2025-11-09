@@ -12,8 +12,8 @@ const HomePage = () => {
           {/* Left Column */}
           <div className="space-y-6">
             <h1 className="text-6xl font-bold">
-              <span className="text-white">PROMPT</span>{' '}
-              <span className="text-yellow-400">MASTERS</span>
+              <span className="text-yellow-400">MASTER</span>
+              <span className="text-white">PROMPTER</span>{' '}
             </h1>
             <p className="text-white text-xl">From Prompts to Progress</p>
             <p className="text-gray-300 text-lg">
